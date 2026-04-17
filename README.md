@@ -6,7 +6,7 @@ Personal Claude Code plugin marketplace by JettHu.
 
 | Plugin | Description |
 |--------|-------------|
-| [x-review](https://github.com/JettHu/cc-codex-cross-review) | Cross-model plan review: Claude Code orchestrates, Codex reviews critically |
+| [x-review](https://github.com/JettHu/cc-codex-cross-review) | Cross-model plan review: adversarial feedback loop with session reuse |
 
 ## Install
 

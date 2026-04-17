@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "x-review",
-      "description": "Cross-model plan review: Claude Code orchestrates, Codex reviews critically. Multi-round with session reuse.",
+      "description": "Cross-model plan review for coding agents. Multi-round adversarial feedback loop with session reuse.",
       "version": "0.1.0",
       "author": {
         "name": "JettHu"
