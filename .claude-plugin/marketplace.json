@@ -1,0 +1,25 @@
+{
+  "name": "jetthu-cc-plugins",
+  "owner": {
+    "name": "JettHu"
+  },
+  "metadata": {
+    "description": "JettHu's Claude Code plugin collection.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "x-review",
+      "description": "Cross-model plan review: Claude Code orchestrates, Codex reviews critically. Multi-round with session reuse.",
+      "version": "0.1.0",
+      "author": {
+        "name": "JettHu"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JettHu/cc-codex-cross-review.git"
+      },
+      "homepage": "https://github.com/JettHu/cc-codex-cross-review"
+    }
+  ]
+}
